@@ -9,7 +9,7 @@ public class Clase{
         nombreClase = nom;
         alumnos = new Alumno[cantAlumnos];        
     }
-    
+    //adios
     /*
         Devolver el nombre de la clase
     */
